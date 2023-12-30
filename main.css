@@ -160,8 +160,8 @@ header.active #bar{
     z-index: 2;
 }
 .big-bg .bg-content .bg-link a:hover{
-    color: orange;
-    border-color: orange;
+    color: black;
+    background-color: white;
 }
 @media(max-width: 991px){
     .big-bg .bg-content h1{
